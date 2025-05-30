@@ -1,0 +1,6 @@
+modelcontextprotocol
+# Ensure api_helper.py from ShoonyaApi-py is manually placed in this directory for the agent to work.
+# Add other dependencies like python-dotenv if you choose to use .env files for configuration.
+# Example:
+# python-dotenv
+# PyYAML (if using YAML for config)
